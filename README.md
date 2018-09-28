@@ -1,4 +1,5 @@
 # TensorFlow Android Beer Recognition Demo
+###Nota: Estamos teniendo problemas para subir el repositorio del entrenamiento de modelo, deberia estar para hoy (Viernes 28) en la noche
 
 
 ## Description
